@@ -10,8 +10,8 @@ The complete dataset is a collection of the COVID-19 data maintained by [Our Wor
     <ol>
       <li> Visit our <a href="https://colab.research.google.com/drive/1DsFaJV6vrwJRbxK4Ntq54PPTm3emHFVm?usp=sharing">Colab Notebook</a>. </li>
       <li> Input <code>location</code> and <code>number_of_days</code> to perform analysis and forecasting </li>
-      <li> Press <code>Ctrl+F9</code> to run all cells. </li>
-      <li> Results will be save in <code>fig</code> folder: </li>
+      <li> Press <code>Ctrl+F9</code> to run. </li>
+      <li> Results will be save in <code>fig</code> folder, including: </li>
         <ul>
           <li> New cases: <code> fig/&lt;location&gt-newCases.png </code> </li>
           <li> Total cases: <code> fig/&lt;location&gt-totalCases.png </code> </li>
